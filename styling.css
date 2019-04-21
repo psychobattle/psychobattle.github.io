@@ -27,29 +27,10 @@ html {
 /* Footer Stuff */
 .footer {
   position: fixed;
-  margin: 1px 5%;
+  margin: 5px 5%;
   padding: 5px 5px;
   width: 90%; 
   bottom: 0%;
   background: #ff8888;
   border-radius: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
