@@ -1,0 +1,55 @@
+html {
+  background-color: #a6cbff;
+  text-align: center;
+  font-family: comfortaa, fantasy;
+}
+
+/* Header Stuff */
+.header {
+  position: realative;
+  padding: 10px;
+  margin: 0px auto;
+  width: 90%; 
+  background: #fff816;
+  border-radius: 10px;
+}
+
+/* Page Stuff */
+.page {
+  position: realative;
+  padding: 10px 16px;
+  margin: 4% auto;
+  width: 80%; 
+  background: #ff7777;
+  border-radius: 10px;
+}
+
+/* Footer Stuff */
+.footer {
+  position: fixed;
+  margin: 1px 5%;
+  padding: 5px 5px;
+  width: 90%; 
+  bottom: 0%;
+  background: #ff8888;
+  border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
